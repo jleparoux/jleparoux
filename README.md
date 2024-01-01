@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julien Leparoux</h1>
 Data Scientist (2+ years of experience) and Senior Python developer (5+ years of experience). 
 
-Engineer with more than 10 years of experience in aeronautical engines (data analysis in combustion and two-phase flows) and software development. Currently working as Research Engineer and Data Scientist in computational fluid dynamics.
+Engineer with more than 10 years of experience in aeronautical industry (data modeling, data analysis in computational fluid dynamics) and software development. Currently working as Research Engineer and Data Scientist in computational fluid dynamics.
 
 In love with:
 - Programming (mainly in Python and Fortran)
