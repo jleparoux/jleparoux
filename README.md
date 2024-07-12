@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Julien Leparoux</h1>
-Data Scientist (2+ years of experience) and Senior Python developer (5+ years of experience). 
+Data Scientist (3+ years of experience) and Senior Python developer (7+ years of experience). 
 
-Engineer with more than 10 years of experience in aeronautical industry (data modeling, data analysis in computational fluid dynamics) and software development. Currently working as Research Engineer and Data Scientist in computational fluid dynamics.
+Engineer with more than 10 years of experience in aeronautical industry (data modeling, data analysis in computational fluid dynamics) and software development. Currently working as Data Scientist in computational fluid dynamics.
 
 In love with:
 - Programming (mainly in Python and Fortran)
 - High-performance computing
 - Data Visualization (Plotly Dash and Streamlit)
 - Data processing (Pandas and Numpy)
-- Data modeling (Scikit-Learn and TensorFlow/Keras)
+- Data modeling (Scikit-Learn and PyTorch)
 
 I am also passionate by photography :camera:.
 
